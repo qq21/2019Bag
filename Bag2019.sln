@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bag2019", "Bag2019.csproj", "{E77F0D10-7634-2175-98AF-47E2FBFA504E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E77F0D10-7634-2175-98AF-47E2FBFA504E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E77F0D10-7634-2175-98AF-47E2FBFA504E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E77F0D10-7634-2175-98AF-47E2FBFA504E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E77F0D10-7634-2175-98AF-47E2FBFA504E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
